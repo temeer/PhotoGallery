@@ -1,4 +1,4 @@
-package com.bignerdranch.android.beatbox;
+package com.bignerdranch.android.photogallery;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
@@ -7,8 +7,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
-
-import com.bignerdranch.android.photogallery.R;
 
 /**
  * Created by Rasul on 25.03.2016.
